@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Snowflake Revived Kernel by Chronix
-kernel.compiler=AOSP Clang
+kernel.string=Snowflake-Revived Kernel by Chronix
+kernel.compiler=AOSP Clang 21
 kernel.made=Chronix
-message.word=Thx for installing Snowflake Revived Kernel, Thx RainZ for Snowflake.
+message.word=Thx for installing Snowflake-Revived Kernel.
 do.devicecheck=1
 do.cleanup=1
 device.name1=violet
