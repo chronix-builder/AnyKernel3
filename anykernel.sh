@@ -4,10 +4,10 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Nemesis Kernel by RainZ
-kernel.compiler=Neutron Clang 24
-kernel.made=RainZ
-message.word=Thx for installing Nemesis Kernel
+kernel.string=Snowflake Revived Kernel by Chronix
+kernel.compiler=AOSP Clang
+kernel.made=Chronix
+message.word=Thx for installing Snowflake Revived Kernel, Thx RainZ for Snowflake.
 do.devicecheck=1
 do.cleanup=1
 device.name1=violet
