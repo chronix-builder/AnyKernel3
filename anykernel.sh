@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Snowflake-Revived Kernel by Chronix
+kernel.string=Snowy Kernel by Chronix
 kernel.compiler=AOSP Clang 21
 kernel.made=Chronix
-message.word=Thx for installing Snowflake-Revived Kernel.
+message.word=Thx for installing Snowy Kernel.
 do.devicecheck=1
 do.cleanup=1
 device.name1=violet
-supported.versions=16-17
+supported.versions=15-17
 '; } # end properties
 
 
